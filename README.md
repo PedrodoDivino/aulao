@@ -5,4 +5,9 @@ Praticando Js, cada commit é uma aula
 
 02- tipos  de  variaveis  primitivo e referencia
 
+03- Identificando  os tipos de variaveis com typeOf
+
+04- Objetos! Juntado  tudo na prática. {formulário}
+
+
 
