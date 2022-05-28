@@ -13,5 +13,9 @@ Praticando Js, cada commit é uma aula
 
 06- função e parametros
 
+07  - funções e retornos (return)
+
+08 - tipos de operadores -  (aritméticos/incremento-decremento)
+
 
 
