@@ -11,5 +11,7 @@ Praticando Js, cada commit é uma aula
 
 05- array 
 
+06- função 
+
 
 
