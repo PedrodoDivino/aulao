@@ -8,3 +8,4 @@ console.log('Olá meu nome é ' + nome + ' e minha idade é ' + idade + ' anos e
 // let carteira = 10;
 // carteira = 50;
 //  console.log(carteira);
+
