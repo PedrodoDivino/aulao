@@ -17,5 +17,7 @@ Praticando Js, cada commit é uma aula
 
 08 - tipos de operadores -  (aritméticos/incremento-decremento)
 
+09 -Operadores de atribuição
+
 
 
