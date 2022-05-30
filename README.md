@@ -19,5 +19,7 @@ Praticando Js, cada commit é uma aula
 
 09 -Operadores de atribuição e igualdade 
 
+10- Ternário
+
 
 
