@@ -25,5 +25,7 @@ Praticando Js, cada commit é uma aula
 
 12 - Comparações lógicas 
 
+12ex - exercício de reatribuição de variavel 
+
 
 
