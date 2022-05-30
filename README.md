@@ -21,7 +21,7 @@ Praticando Js, cada commit é uma aula
 
 10- Ternário
 
-11 -  Operador Lógico && || !=
+11 -  Operador Lógico && || !=  (e our not)
 
 
 

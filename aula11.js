@@ -10,3 +10,5 @@ let sabeProgramar = false;
 
 let vaga =  idade >= 18 && faculdade == true || sabeProgramar ? 'Aprovado' : 'Reprovado' ;
 console.log(vaga)
+
+
