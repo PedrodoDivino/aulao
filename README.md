@@ -23,5 +23,7 @@ Praticando Js, cada commit é uma aula
 
 11 -  Operador Lógico && || !=  (e our not)
 
+12 - Comparações lógicas 
+
 
 
