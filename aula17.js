@@ -6,4 +6,4 @@ do {
     console.log('mostrar menu', i);
     i++;
 
-} while (i < 10);
+} while (i < 10); 
