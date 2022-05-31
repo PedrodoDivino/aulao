@@ -37,8 +37,11 @@ Praticando Js, cada commit é uma aula
 
 17 - laços de repetição - Do while
 
+18 - laços de repetição - For in
 
-17 - laços de repetição - For in
+19 - laços de repetição - For of 
+
+
 
 
 
