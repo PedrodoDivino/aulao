@@ -27,5 +27,9 @@ Praticando Js, cada commit é uma aula
 
 12ex - exercício de reatribuição de variavel 
 
+13 - Tipos de condicionais com switch  case
+
+14 - Switch Case 
+
 
 
