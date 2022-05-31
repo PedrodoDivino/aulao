@@ -31,5 +31,7 @@ Praticando Js, cada commit é uma aula
 
 14 - Switch Case 
 
+15 - laços de repetição - for
+
 
 
