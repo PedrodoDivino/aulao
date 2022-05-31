@@ -41,6 +41,9 @@ Praticando Js, cada commit é uma aula
 
 19 - laços de repetição - For of 
 
+20 - exercicio   
+
+
 
 
 
