@@ -35,5 +35,7 @@ Praticando Js, cada commit é uma aula
 
 16 -  laços de repetição - while
 
+17 - laços de repetição - Do while
+
 
 
