@@ -43,6 +43,8 @@ Praticando Js, cada commit é uma aula
 
 20 - exercicio   
 
+21 - exercício com FizzBuzz 2 formas diferentes
+
 
 
 
