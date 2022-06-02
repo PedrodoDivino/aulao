@@ -47,6 +47,9 @@ Praticando Js, cada commit é uma aula
 
 22 - Exercicio Medidor de velocidade
 
+23 - Exercicio Par/Impar
+
+
 
 
 
