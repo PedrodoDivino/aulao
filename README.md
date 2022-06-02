@@ -51,6 +51,8 @@ Praticando Js, cada commit é uma aula
 
 24 - Propriedades dentro de objeto
 
+25 - função Soma
+
 
 
 
