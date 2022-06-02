@@ -1,5 +1,5 @@
 // criar  função que retorna somente os multiplos de 3 e multiplos de 5
-// trabalhgar somente com de 1 a 10
+// trabalhar somente com de 1 a 10
 // multiplos de 3
 //3,6,9
 // multiplos de 5 
