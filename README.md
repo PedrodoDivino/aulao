@@ -45,7 +45,7 @@ Praticando Js, cada commit é uma aula
 
 21 - exercício com FizzBuzz 2 formas diferentes
 
-
+22 - Exercicio Medidor de velocidade
 
 
 
