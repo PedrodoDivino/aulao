@@ -49,6 +49,8 @@ Praticando Js, cada commit é uma aula
 
 23 - Exercicio Par/Impar
 
+24 - Propriedades dentro de objeto
+
 
 
 
